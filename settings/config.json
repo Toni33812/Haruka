@@ -8,5 +8,5 @@
 		"free":20,
 		"premium":1000
 	},
-	"session_name":"./apri.json"
+	"session_name":"./session.json"
 }
